@@ -1,0 +1,40 @@
+name: Feature Request
+description: Suggest a feature or improvement.
+title: '[Feature request]: '
+labels:
+  - Feature
+  - feature
+  - Enhancement
+  - enhancement
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for taking the time to explain your request.
+  - type: textarea
+    id: use-case
+    attributes:
+      label: Use Case
+      description: A clear and concise description of the problem you're trying to solve, attempting a solution.
+      placeholder: I'm always frustrated when [...]
+    validations:
+      required: true
+  - type: textarea
+    id: desired-solution
+    attributes:
+      label: Describe the solution you would like
+      description: Describe how you would like to solve the problem.
+      placeholder: 
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Describe alternatives you've considered
+      description: A clear and concise description of any alternative solutions or features you've considered.
+      placeholder: 
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional context
+      description: Add any other context or screenshots about the feature request here.
+      placeholder: 
