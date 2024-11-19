@@ -23,7 +23,7 @@ Don't forget that all participation is governed by our [Code of conduct](https:/
 
 Overlook InfraTech is sponsoring and stewarding the community driven OpenPuppet project. This is a completely open source Puppet distribution, which we hope to eventually become the standard upstream source.
 
-See our (tbd) migration guide for information on how to adopt it.
+See our [installation guide](https://overlookinfratech.com/downloads/) for information on how to start using it.
 
 
 ### 🎁 Contributing to the ecosystem
