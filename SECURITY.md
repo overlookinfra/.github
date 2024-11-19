@@ -1,4 +1,4 @@
 # Security Policy
 
-Please see https://puppet.com/security for information about our security policy
-and for responsibly reporting security issues.
+Please report security issues directly to security@overlookinfratech.com rather
+than filing a GitHub issue!
