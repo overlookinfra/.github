@@ -1,5 +1,5 @@
 # .github
-Default community health files for the Puppet Labs org
+Default community health files for org
 
 See below for more information.
 
