@@ -3,7 +3,7 @@
 Overlook InfraTech is a public benefit company founded under the radical premise that the company exists to serve the community. We literally have our committment to the Open Source ethos written into our bylaws.
 We do this by focusing on ecosystem value rather than only on ways to extract resources from a target market.
 
-<img align="right" src="](https://github.com/user-attachments/assets/0b82a2e6-f32e-430b-a2c3-a3b21f07e636" alt="Hambone looking out over the waterfront" width="400">
+<img align="right" src="https://github.com/user-attachments/assets/0b82a2e6-f32e-430b-a2c3-a3b21f07e636" alt="Hambone looking out over the waterfront" width="400">
 
 The name Overlook harkens back to our roots as Puppet's Open Source Stewards group. The common area of our Portland office was downtown looking out over the waterfront and festivals of all kinds. We'd often organize Engineering outings to the Oregon Brewfest across the street, and every Friday afternoon we'd gather to socialize while we finished up tasks for the week. This common area was called _The Overlook_ and this is my silly Pekignese dog, Hambone, giving the view his stamp of approval.
 
