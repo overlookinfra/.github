@@ -14,7 +14,7 @@ You can get involved in the OpenPuppet community by connecting at events, gettin
 
 - 💬 [Vox Pupuli Slack](https://short.voxpupu.li/puppetcommunity_slack_signup)
 - 🛠️ https://forge.puppet.com
-- 📰 https://dev.to/feed/tag/puppet
+- 📰 https://dev.to/t/puppet [![RSS Icon](https://github.com/user-attachments/assets/3eefd12a-71c4-4096-9ec7-8dc35d92d88c)](https://dev.to/feed/tag/puppet)
 
 Don't forget that all participation is governed by our [Code of conduct](https://voxpupuli.org/coc/).
 
