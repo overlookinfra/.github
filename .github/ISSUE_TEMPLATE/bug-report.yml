@@ -1,8 +1,9 @@
 name: Bug Report
-about: Create a report to help us improve.
-title: ''
-labels: Bug, bug
-assignees: ''
+description: Create a report to help us improve.
+title: "[Bug]: "
+labels:
+  - Bug
+  - bug
 body:
   - type: markdown
     attributes:
